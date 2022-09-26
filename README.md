@@ -1,2 +1,2 @@
-# jikwaa
+# Jikwaa
 Simple forum evolving
